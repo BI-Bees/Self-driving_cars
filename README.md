@@ -9,7 +9,7 @@ Vi har udarbejdet en regning, som skal være med til at give de studerende fra I
 
 Vi har fastsat en timeløn på 499,00 DKK pr. person pr. påbegyndt time.
 Derudover vil der også blive afkrævet 999,00 DKK for hvert møde, som afholdes med gruppen.
-Ud over ovenstående har vi også kommunikeret med gruppen via Facebook, hvor vi havde oprettet en fælles gruppechat. Dette skal gruppen dog ikke betale for.
+Ud over ovenstående har vi også kommunikeret med gruppen via Facebook, hvor vi havde oprettet en fælles gruppechat. Gruppen vil dog ikke blive opkrævet betaling for dette.
 En samlet regning over alt det udførte arbejde kan ses her.
 
 ### The product (deliverable)
@@ -19,4 +19,6 @@ Som det fremgår af vores kontrakt, har vi aftalt med gruppen, at vores grafer k
 Brugerdokumentationen, som vi også har sendt til gruppen, kan ses her.
 
 ### Used data sources
+En oversigt over alle de sider, hvor vi har fundet det anvendte data, kan ses her.
+
 ### Technical documentation
