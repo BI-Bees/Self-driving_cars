@@ -23,5 +23,5 @@ En oversigt over alle anvendte kilder til at finde data kan ses her.
 
 ### Technical documentation
 
-User documentation mangler billede, mangler forklaring af webisde
+mangler forklaring af webisde
 data sources mangler befolkningstal
