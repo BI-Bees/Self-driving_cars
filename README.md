@@ -13,12 +13,12 @@ Ud over ovenstående har vi også kommunikeret med gruppen via Facebook, hvor vi
 En samlet regning over alt det udførte arbejde kan ses her.
 
 ### The product (deliverable)
-Som det fremgår af vores kontrakt, har vi aftalt med gruppen, at vores grafer kommer til at være tilgængelige via en webside. Websiden kan tilgås via følgende adresse: 
+Som det fremgår af vores kontrakt, har vi aftalt med gruppen, at vores grafer kommer til at være tilgængelige via en webside. Websiden kan tilgås via følgende link: 
 
 ### User documentation (deliverable)
 Brugerdokumentationen, som vi også har sendt til gruppen, kan ses her.
 
 ### Used data sources
-En oversigt over alle de sider, hvor vi har fundet det anvendte data, kan ses her.
+En oversigt over alle anvendte kilder til at finde data kan ses her.
 
 ### Technical documentation
