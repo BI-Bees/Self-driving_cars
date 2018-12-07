@@ -19,7 +19,7 @@ Som det fremgår af vores kontrakt, har vi aftalt med gruppen, at vores grafer k
 Brugerdokumentationen, som vi også har sendt til gruppen, kan ses her.
 
 ### Used data sources
-En oversigt over alle anvendte kilder til at finde data kan ses her.
+En oversigt over alle anvendte kilder til at finde data kan ses [her](https://github.com/BI-Bees/Self-driving_cars/blob/master/report/Data%20sources.pdf).
 
 ### Technical documentation
 
