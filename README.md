@@ -22,5 +22,5 @@ Brugerdokumentationen, som vi også har sendt til gruppen, kan ses [her](https:/
 En oversigt over alle anvendte kilder til at finde data kan ses [her](https://github.com/BI-Bees/Self-driving_cars/blob/master/report/Data%20sources.pdf).
 
 ### Technical documentation
-Vi har udarbejdet en teknisk dokumentation, som bl.a. forklarer, hvordan vi har deployet vores program.
+Vi har udarbejdet en teknisk dokumentation, som bl.a. forklarer, hvordan vi har deployet vores grafer.
 Den tekniske dokumentation kan ses [her](https://github.com/BI-Bees/Self-driving_cars/blob/master/report/Teknisk%20dokumentation.pdf).
