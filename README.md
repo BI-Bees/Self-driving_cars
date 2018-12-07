@@ -13,7 +13,7 @@ Ud over ovenstående har vi også kommunikeret med gruppen via Facebook, hvor vi
 En samlet regning over alt det udførte arbejde kan ses [her](https://github.com/BI-Bees/Self-driving_cars/blob/master/report/Bill.pdf).
 
 ### The product (deliverable)
-Som det fremgår af vores kontrakt, har vi aftalt med gruppen, at vores grafer kommer til at være tilgængelige via en webside. Websiden kan tilgås via følgende link: https://bi-bees.github.io/Self-driving_cars/
+Som det fremgår af vores kontrakt, har vi aftalt med gruppen, at vores grafer kommer til at være tilgængelige via en webside. Websiden kan tilgås via følgende link: https://bi-bees.github.io/Self-driving_cars/.
 
 ### User documentation (deliverable)
 Brugerdokumentationen, som vi også har sendt til gruppen, kan ses [her](https://github.com/BI-Bees/Self-driving_cars/blob/master/report/Brugerdokumentation.pdf).
