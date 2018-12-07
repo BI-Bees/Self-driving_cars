@@ -10,7 +10,7 @@ Vi har udarbejdet en regning, som skal være med til at give de studerende fra I
 Vi har fastsat en timeløn på 499,00 DKK pr. person pr. påbegyndt time.
 Derudover vil der også blive afkrævet 999,00 DKK for hvert møde, som afholdes med gruppen.
 Ud over ovenstående har vi også kommunikeret med gruppen via Facebook, hvor vi havde oprettet en fælles gruppechat. Gruppen vil dog ikke blive opkrævet betaling for dette.
-En samlet regning over alt det udførte arbejde kan ses her.
+En samlet regning over alt det udførte arbejde kan ses [her](https://github.com/BI-Bees/Self-driving_cars/blob/master/report/Bill.pdf).
 
 ### The product (deliverable)
 Som det fremgår af vores kontrakt, har vi aftalt med gruppen, at vores grafer kommer til at være tilgængelige via en webside. Websiden kan tilgås via følgende link: 
