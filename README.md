@@ -23,4 +23,4 @@ En oversigt over alle anvendte kilder til at finde data kan ses [her](https://gi
 
 ### Technical documentation
 Vi har udarbejdet en teknisk dokumentation, som bl.a. forklarer, hvordan vi har deployet vores program.
-Den tekniske dokumentation kan ses [her](https://github.com/BI-Bees/Self-driving_cars/blob/master/report/Teknisk%20dokumentation.pdf)
+Den tekniske dokumentation kan ses [her](https://github.com/BI-Bees/Self-driving_cars/blob/master/report/Teknisk%20dokumentation.pdf).
