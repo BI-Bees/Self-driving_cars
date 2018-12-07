@@ -16,7 +16,7 @@ En samlet regning over alt det udførte arbejde kan ses [her](https://github.com
 Som det fremgår af vores kontrakt, har vi aftalt med gruppen, at vores grafer kommer til at være tilgængelige via en webside. Websiden kan tilgås via følgende link: https://bi-bees.github.io/Self-driving_cars/
 
 ### User documentation (deliverable)
-Brugerdokumentationen, som vi også har sendt til gruppen, kan ses her.
+Brugerdokumentationen, som vi også har sendt til gruppen, kan ses [her](https://github.com/BI-Bees/Self-driving_cars/blob/master/report/Brugerdokumentation.pdf).
 
 ### Used data sources
 En oversigt over alle anvendte kilder til at finde data kan ses [her](https://github.com/BI-Bees/Self-driving_cars/blob/master/report/Data%20sources.pdf).
