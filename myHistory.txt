@@ -1,0 +1,53 @@
+815ed1b HEAD@{0}: pull: Fast-forward
+585b0a7 HEAD@{1}: pull: Fast-forward
+a87cc91 HEAD@{2}: pull: Merge made by the 'recursive' strategy.
+cd88f4b HEAD@{3}: commit: added technical documentation
+0610cf9 HEAD@{4}: pull: Merge made by the 'recursive' strategy.
+16923e7 HEAD@{5}: commit: added user documentation
+d46d6b1 HEAD@{6}: commit: ADDED ALMOST EVERYTHINGgit add .!
+4883ac5 HEAD@{7}: reset: moving to origin/master
+e253afd HEAD@{8}: commit: ADDED A LOTgit add .git add .git add .!
+4883ac5 HEAD@{9}: reset: moving to origin/master
+80c1361 HEAD@{10}: pull: Merge made by the 'recursive' strategy.
+325e48f HEAD@{11}: reset: moving to 325e48fd54c5b9d888cf0885dc52d4a8d32b4d5d
+50aab00 HEAD@{12}: commit: fixed error
+49de968 HEAD@{13}: commit: removed NY-dataset since it's too large and can't be pushed to github
+b296df7 HEAD@{14}: commit: changed folder structure
+5446e17 HEAD@{15}: commit: added functions to create bar chart containing data about all car crashes in NY from 2014-2016
+5ed3af4 HEAD@{16}: commit: added new functions to create bar chart with self-driving cars accidents
+6ec2048 HEAD@{17}: commit: changed function name
+8929a65 HEAD@{18}: commit: changed csv-file to be saved in global dataframe
+d0df3ea HEAD@{19}: commit: added some new functions
+62cb24c HEAD@{20}: commit: added nice bar chart created with data from HUGE dataset!
+6362538 HEAD@{21}: commit: changed folder structure
+21d9750 HEAD@{22}: commit: added data sources
+24fa670 HEAD@{23}: commit: added contract
+a2dfd51 HEAD@{24}: pull: Merge made by the 'recursive' strategy.
+159ab48 HEAD@{25}: commit: added more graphs and a lot of bugs fixed
+9cc198c HEAD@{26}: commit: fixed error
+e694df2 HEAD@{27}: commit: added bill
+5ab2589 HEAD@{28}: pull: Merge made by the 'recursive' strategy.
+d73cca7 HEAD@{29}: commit: a lot of changes! added methods for creating line chart and bar chart + bugs fixed + more..
+c389cd1 HEAD@{30}: commit: added circles on line chart
+165d554 HEAD@{31}: commit: added datasets with accidents for Denmark, Copenhagen and Aalborg
+2f8d302 HEAD@{32}: commit: made bar chart interactive + corrected mistakes
+673f7d1 HEAD@{33}: commit: added code to create nice bar chart from data read from csv-file!
+446a591 HEAD@{34}: commit: created output HTML-file for showing histogram
+bf878f3 HEAD@{35}: commit: deleted unused code
+7590f33 HEAD@{36}: commit: added imports for bokeh
+7aa5ef2 HEAD@{37}: commit: prepared data to create a histogram
+adf7c64 HEAD@{38}: commit: optimized some code
+04ca5eb HEAD@{39}: commit: getting data for specific vehicle makes
+a9dc671 HEAD@{40}: commit: created dict with data from csv file
+35185af HEAD@{41}: commit: created pandas dataframe of csv-file
+f9d54d8 HEAD@{42}: commit: data is now read from csv-file using pandas
+325e48f HEAD@{43}: commit: added dataset with car crashes from New York
+e2c8eab HEAD@{44}: pull: Merge made by the 'recursive' strategy.
+c53cec8 HEAD@{45}: commit: added new interactive histogram with bokeh displayed in a html-file
+2d6c07d HEAD@{46}: commit: added limit on histogram y-axis
+9737f32 HEAD@{47}: commit: added matplot histogram to show data from csv-file
+e01c6b6 HEAD@{48}: pull: Merge made by the 'recursive' strategy.
+6e5374b HEAD@{49}: commit: changed folder structure
+6c8e461 HEAD@{50}: commit: added Python script to read from csv file
+a189d18 HEAD@{51}: commit: added csv file with data
+f7154b8 HEAD@{52}: clone: from https://github.com/BI-Bees/Self-driving_cars.git
